@@ -6,7 +6,7 @@ For the Linear Algebra solution method see section 4.3 ('Least Squares Approxima
 [ila] G. Strang, Introduction to Linear Algebra (Fifth Edition), Wellesley - Cambridge Press, 2016
 
 
-<snip Expected Output>
+# Expected Output
 julia> include("Linear_Regression.jl")
 #
 ##########################################
@@ -83,4 +83,3 @@ error_values_as_row_vector*b_dash:- -1.3788969965844444e-13
 x_values_as_row_vector*error_column_vector:- -6.306066779870889e-14
 one_values_as_row_vector*error_column_vector:- -1.7763568394002505e-14
 
-</snip>
